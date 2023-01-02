@@ -1,2 +1,2 @@
-# SudokuSolvers
-Multiple Methods of solving a Sudoku Puzzle.
+# SudokuSolver
+A Sudoku Puzzle Solver using backtracking and a GUI using pygame module.
